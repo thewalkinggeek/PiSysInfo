@@ -1,5 +1,5 @@
 # PiSysInfo
-PHP Script that will show System Information of a Raspberry Pi (No disk information)
+PHP Script that will show System Information of a Raspberry Pi (No disk information for security)
 
 
 Simply copy index.php or rename to the www root directory
