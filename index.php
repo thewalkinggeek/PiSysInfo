@@ -336,11 +336,7 @@
 			</tr>
 		</table>
 		<table><tr><td colspan="4" class="darkbackground">&nbsp;</td>
-			</tr></table><table><tr>
-				<td colspan="2" class="head center">Current Services</td>
-	
-			</tr></table><table><td colspan="4" class="left">Apache<br><br>SSH<br><br>Plex Media Server<br><br>Kodi<br><br></tr></table>
-<table>
+			</tr></table>
 			<tr>
 				<td class="right darkbackground"><center><a href="javascript:location.reload(true);" title="Refresh">Refresh</a></center></td>
 			</tr>
