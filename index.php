@@ -247,7 +247,7 @@
 	</head>
 	<body onload="Javascript: updateDisplay();">
 	<div id="Content">
-	<h1>Pinix @ Phoenix Gateway</br>(iam.uberleet.com)</h1><h1>System Information</h1>
+	<h1>My Pi @ My Network</br>(my.url.com)</h1><h1>System Information</h1>
 		<table>
 			<tr>
 				<td colspan="4" class="head center">General Info</td>
